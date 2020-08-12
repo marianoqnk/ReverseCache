@@ -20,14 +20,18 @@
     (File "c:\diseños\cacheinverso.mnl"
       (Type "LAYOUT Netlist File")))
   (Folder "Referenced Projects")
-  (MPSSessionName "Mariano")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\cacheinverso.dsn")
-      (Path "Design Resources" ".\cacheinverso.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\Nano\Documents\CacheDuino\ReverseCache\cacheinverso.dsn")
+      (Path "Design Resources"
+         "C:\Users\Nano\Documents\CacheDuino\ReverseCache\cacheinverso.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\cacheinverso.dsn"))
+      (Select "Design Resources"
+         "C:\Users\Nano\Documents\CacheDuino\ReverseCache\cacheinverso.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -37,11 +41,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -30 88 1544 116 774")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1442 52 676")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\ARDUINO-1.0.2\DISENOS\CACHEINVERSO.DSN")
+      (Path "C:\USERS\NANO\DOCUMENTS\CACHEDUINO\REVERSECACHE\CACHEINVERSO.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (PartMRUSelector
