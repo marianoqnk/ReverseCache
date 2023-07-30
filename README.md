@@ -7,3 +7,5 @@ Lista de materiales:
 - Un servo
 - Un rele reed
 Instrucciones de montaje
+
+Modulo Cargador de AliExpress consumo 3.3uA
