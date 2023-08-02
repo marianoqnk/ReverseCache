@@ -9,3 +9,4 @@ Lista de materiales:
 Instrucciones de montaje
 
 Modulo Cargador de AliExpress consumo 3.3uA
+[Arduino Pin Out](https://media.digikey.com/Photos/RDL/DEV-11114%20-%20Pinout.png)
